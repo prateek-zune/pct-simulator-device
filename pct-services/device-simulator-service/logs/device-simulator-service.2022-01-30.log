@@ -1,0 +1,218 @@
+2022-01-30 11:11:09.427 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 12432 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-30 11:11:09.451 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-30 11:11:09.451 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-30 11:11:14.417 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-30 11:11:14.498 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-30 11:11:14.501 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-30 11:11:14.502 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-30 11:11:15.250 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-30 11:11:15.251 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5554 ms
+2022-01-30 11:11:16.185 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-30 11:11:16.186 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-30 11:11:16.260 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-30 11:11:18.113 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-30 11:11:18.232 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-30 11:11:18.290 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 10.604 seconds (JVM running for 13.006)
+2022-01-30 11:13:16.145 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-30 11:13:16.145 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-30 11:13:16.147 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-01-30 11:13:16.213 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:16.220 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:18.305 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:18.311 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:19.015 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:19.019 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:19.279 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:19.285 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:19.461 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:19.466 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:19.654 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:19.660 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:19.913 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:19.921 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:20.103 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:20.112 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:20.285 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:20.295 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:20.458 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:20.466 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:20.630 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:20.635 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:13:56.548 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:13:56.557 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:24.273 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:24.279 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:24.749 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:24.752 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:24.933 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:24.950 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:25.113 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:25.118 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:25.274 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:25.280 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:25.464 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:25.469 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:25.645 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:25.650 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:25.820 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:25.834 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:25.996 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:26.003 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:26.165 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:26.174 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:26.357 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:26.362 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:26.516 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:26.521 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:26.691 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:26.697 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:16:26.861 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:16:26.874 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:18:46.228 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:18:46.234 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:18:46.684 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:18:46.695 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:18:47.062 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:18:47.068 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:18:47.313 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:18:47.319 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:24:06.202 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 9884 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-30 11:24:06.237 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-30 11:24:06.238 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-30 11:24:13.229 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-30 11:24:13.247 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-30 11:24:13.250 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-30 11:24:13.251 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-30 11:24:13.593 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-30 11:24:13.594 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 7071 ms
+2022-01-30 11:24:14.154 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-30 11:24:14.155 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-30 11:24:14.176 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-30 11:24:15.135 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-30 11:24:15.182 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-30 11:24:15.219 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 11.856 seconds (JVM running for 15.564)
+2022-01-30 11:24:17.964 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-30 11:24:17.964 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-30 11:24:17.966 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-01-30 11:24:18.021 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:24:18.037 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:26:43.444 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:26:43.452 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:26:44.169 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:26:44.178 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:26:44.653 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:26:44.668 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:27:28.090 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:27:28.095 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:33:45.539 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:33:45.545 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 11:33:47.958 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 11:33:47.967 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 12:14:52.916 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 12:14:52.932 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 12:19:55.340 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 12:19:55.344 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 12:24:09.837 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 12:24:09.843 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 12:35:49.163 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 11136 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-30 12:35:49.170 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-30 12:35:49.171 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-30 12:35:51.801 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-30 12:35:51.818 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-30 12:35:51.819 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-30 12:35:51.820 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-30 12:35:52.051 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-30 12:35:52.052 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2722 ms
+2022-01-30 12:35:52.321 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-30 12:35:52.322 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-30 12:35:52.341 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-30 12:35:53.074 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-30 12:35:53.109 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-30 12:35:53.135 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 4.994 seconds (JVM running for 5.874)
+2022-01-30 12:35:53.727 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-30 12:35:53.728 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-30 12:35:53.730 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-01-30 12:35:53.790 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 12:35:53.804 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:09:51.823 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:09:51.830 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:13.127 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:13.134 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:15.061 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:15.068 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:15.529 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:15.538 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:15.671 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:15.681 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:15.861 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:15.868 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:16.027 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:16.037 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:16.205 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:16.213 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:16.587 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:16.626 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:10:16.804 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:10:16.809 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:28.260 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:28.267 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:28.425 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:28.430 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:28.695 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:28.703 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:28.911 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:28.927 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:29.080 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:29.084 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:29.207 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:29.212 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:29.379 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:29.385 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:29.542 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:29.548 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:29.720 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:29.731 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:30.131 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:30.140 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:30.363 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:30.369 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:30.530 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:30.539 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:30.707 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:30.716 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:31.252 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:31.265 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:31.560 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:31.566 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:31.709 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:31.718 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:32.041 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:32.045 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:11:32.252 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:11:32.259 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:01.458 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:01.463 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:41.020 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:41.026 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:54.343 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:54.350 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:55.563 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:55.571 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:55.800 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:55.804 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:56.000 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:56.005 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:56.290 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:56.302 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:56.547 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:56.553 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:56.700 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:56.708 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:56.869 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:56.875 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:57.071 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:57.077 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:24:57.230 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:24:57.236 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-30 13:35:01.700 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-30 13:35:01.705 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener

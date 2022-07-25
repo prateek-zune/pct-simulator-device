@@ -1,0 +1,49 @@
+2022-01-11 17:53:33.014 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 25164 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-11 17:53:33.042 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-11 17:53:33.042 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-11 17:53:37.010 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-11 17:53:37.048 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-11 17:53:37.050 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-11 17:53:37.051 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-11 17:53:37.305 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-11 17:53:37.305 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4005 ms
+2022-01-11 17:53:37.511 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-11 17:53:37.512 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-11 17:53:37.553 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-11 17:53:38.504 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-11 17:53:38.547 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-11 17:53:38.582 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 6.686 seconds (JVM running for 8.026)
+2022-01-11 17:55:32.128 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-11 17:55:32.129 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-11 17:55:32.132 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2022-01-11 17:56:43.635 [WARN] o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'waitPeriod' for method parameter type int is not present]
+2022-01-11 17:56:50.433 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-11 17:56:50.442 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-11 17:56:50.665 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-11 17:56:50.666 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-11 17:58:02.059 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 19896 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-11 17:58:02.068 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-11 17:58:02.070 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-11 17:58:04.619 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-11 17:58:04.639 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-11 17:58:04.641 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-11 17:58:04.643 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-11 17:58:04.885 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-11 17:58:04.886 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2647 ms
+2022-01-11 17:58:05.163 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-11 17:58:05.163 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-11 17:58:05.201 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-11 17:58:05.994 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-11 17:58:06.041 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-11 17:58:06.088 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 5.736 seconds (JVM running for 6.776)
+2022-01-11 17:58:10.283 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-11 17:58:10.283 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-11 17:58:10.285 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-01-11 17:58:10.343 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-11 17:58:10.350 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-11 17:58:11.640 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-11 17:58:11.640 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-11 17:59:58.283 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-11 17:59:58.288 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-11 17:59:58.344 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-11 17:59:58.344 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread

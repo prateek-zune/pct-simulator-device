@@ -1,0 +1,976 @@
+2022-01-16 18:02:09.485 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:02:09.542 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:02:12.143 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:02:12.144 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:03:31.049 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:03:31.059 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:03:31.110 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:03:31.111 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:07:45.915 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:07:45.921 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:07:47.194 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:07:47.194 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:09:56.578 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:09:56.583 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:09:57.218 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:09:57.219 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:10:13.754 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:10:13.762 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:10:13.784 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:10:13.785 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:12:15.398 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:12:15.402 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:12:17.056 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:12:17.061 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:13:16.288 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:13:16.294 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:13:16.855 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:13:16.856 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:14:06.387 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:14:06.392 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:14:06.434 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:14:06.435 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:25:29.290 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:25:29.295 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:25:30.117 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:25:30.117 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:25:30.941 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:25:30.946 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:25:30.972 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:25:30.973 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:30:51.891 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:30:51.897 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:30:52.572 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:30:52.572 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:32:40.748 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:32:40.754 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:32:41.515 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:32:41.516 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:38:41.088 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:38:41.092 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:38:41.835 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:38:41.836 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:49:18.708 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:49:18.713 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:49:18.763 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:49:18.764 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:53:15.828 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:53:15.833 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:53:16.615 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:53:16.616 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 18:55:11.311 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 18:55:11.316 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 18:55:11.972 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 18:55:11.972 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 19:00:58.370 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 19:00:58.375 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 19:00:59.265 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 19:00:59.265 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 19:22:12.946 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 19:22:12.951 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 19:22:13.752 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 19:22:13.753 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 19:27:13.497 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 19:27:13.502 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 19:27:14.439 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 19:27:14.440 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 19:29:08.471 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 19:29:08.475 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 19:29:09.193 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 19:29:09.193 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-16 19:32:18.298 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-16 19:32:18.303 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-16 19:32:19.018 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-16 19:32:19.019 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-17 17:48:02.093 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 4160 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-17 17:48:02.154 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-17 17:48:02.155 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-17 17:48:07.488 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-17 17:48:07.509 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:48:07.510 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-17 17:48:07.511 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-17 17:48:07.753 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-17 17:48:07.754 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5340 ms
+2022-01-17 17:48:08.256 [WARN] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'kafkaProducerConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'kafka.bootstrapAddress' in value "${kafka.bootstrapAddress}"
+2022-01-17 17:48:08.262 [INFO] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-01-17 17:48:08.302 [INFO] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-17 17:48:08.370 [ERROR] o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'kafkaProducerConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'kafka.bootstrapAddress' in value "${kafka.bootstrapAddress}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.pct.device.simulator.DeviceSimulatorServiceApplication.main(DeviceSimulatorServiceApplication.java:13)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'kafka.bootstrapAddress' in value "${kafka.bootstrapAddress}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:936)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1321)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	... 17 common frames omitted
+2022-01-17 17:50:42.350 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 8796 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-17 17:50:42.356 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-17 17:50:42.361 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-17 17:50:48.429 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-17 17:50:48.561 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:50:48.566 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-17 17:50:48.569 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-17 17:50:49.238 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-17 17:50:49.239 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6639 ms
+2022-01-17 17:50:49.824 [WARN] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'kafkaProducerConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'kafka.bootstrapAddress' in value "${kafka.bootstrapAddress}"
+2022-01-17 17:50:49.830 [INFO] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-01-17 17:50:50.755 [INFO] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-17 17:50:50.824 [ERROR] o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'kafkaProducerConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'kafka.bootstrapAddress' in value "${kafka.bootstrapAddress}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.pct.device.simulator.DeviceSimulatorServiceApplication.main(DeviceSimulatorServiceApplication.java:13)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'kafka.bootstrapAddress' in value "${kafka.bootstrapAddress}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:936)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1321)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	... 17 common frames omitted
+2022-01-17 17:51:28.991 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 16168 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-17 17:51:28.999 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-17 17:51:29.000 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-17 17:51:34.846 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-17 17:51:34.873 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:51:34.877 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-17 17:51:34.878 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-17 17:51:35.342 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-17 17:51:35.343 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6048 ms
+2022-01-17 17:51:36.062 [WARN] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'producer': Unsatisfied dependency expressed through field 'kafkaTemplate'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.kafka.core.KafkaTemplate<java.lang.String, com.pct.device.simulator.DatagramMigrationPacketObject>' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2022-01-17 17:51:36.068 [INFO] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-01-17 17:51:36.103 [INFO] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-17 17:51:36.189 [ERROR] o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field kafkaTemplate in com.pct.device.simulator.Producer required a bean of type 'org.springframework.kafka.core.KafkaTemplate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.kafka.core.KafkaTemplate' in your configuration.
+
+2022-01-17 17:53:33.697 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 18472 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-17 17:53:33.704 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-17 17:53:33.705 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-17 17:53:39.723 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-17 17:53:39.768 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:53:39.772 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-17 17:53:39.772 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-17 17:53:40.282 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-17 17:53:40.283 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6353 ms
+2022-01-17 17:53:40.688 [WARN] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'producer': Unsatisfied dependency expressed through field 'kafkaTemplate'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.kafka.core.KafkaTemplate<java.lang.String, com.pct.device.simulator.DatagramMigrationPacketObject>' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2022-01-17 17:53:40.697 [INFO] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-01-17 17:53:41.566 [INFO] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-17 17:53:41.616 [ERROR] o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field kafkaTemplate in com.pct.device.simulator.Producer required a bean of type 'org.springframework.kafka.core.KafkaTemplate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.kafka.core.KafkaTemplate' in your configuration.
+
+2022-01-17 17:56:52.308 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 10000 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-17 17:56:52.314 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-17 17:56:52.346 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-17 17:56:58.082 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-17 17:56:58.149 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:56:58.152 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-17 17:56:58.153 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-17 17:56:58.567 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-17 17:56:58.568 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5917 ms
+2022-01-17 17:56:59.331 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-17 17:56:59.331 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-17 17:56:59.383 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-17 17:57:01.633 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:57:01.706 [WARN] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8082 is already in use
+2022-01-17 17:57:01.712 [INFO] o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:57:01.712 [INFO] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-01-17 17:57:01.728 [INFO] o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:57:01.729 [INFO] o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:57:01.791 [INFO] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-17 17:57:01.835 [ERROR] o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8082 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8082 or configure this application to listen on another port.
+
+2022-01-17 17:57:41.421 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 19588 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-17 17:57:41.427 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-17 17:57:41.428 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-17 17:57:47.325 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-17 17:57:47.350 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:57:47.356 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-17 17:57:47.359 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-17 17:57:48.168 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-17 17:57:48.169 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6436 ms
+2022-01-17 17:57:49.283 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-17 17:57:49.284 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-17 17:57:49.347 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-17 17:57:50.884 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-17 17:57:51.031 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-17 17:57:51.111 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 11.849 seconds (JVM running for 13.707)
+2022-01-17 18:01:21.067 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-17 18:01:21.068 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-17 18:01:21.072 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-01-17 18:01:21.182 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 18:01:21.234 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 18:01:28.765 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 18:01:29.139 [INFO] o.a.k.c.producer.ProducerConfig - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = true
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class com.pct.device.simulator.DatagramPacketSerializer
+
+2022-01-17 18:01:29.788 [INFO] o.a.k.common.utils.AppInfoParser - Kafka version: 2.7.1
+2022-01-17 18:01:29.791 [INFO] o.a.k.common.utils.AppInfoParser - Kafka commitId: 61dbce85d0d41457
+2022-01-17 18:01:29.792 [INFO] o.a.k.common.utils.AppInfoParser - Kafka startTimeMs: 1642422689782
+2022-01-17 18:01:33.339 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 1 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:33.343 [INFO] org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: JmAPvpy6R9eLXRcueEEDYw
+2022-01-17 18:01:33.549 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 3 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:33.736 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 4 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:33.860 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 5 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:33.979 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 6 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:34.166 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 7 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:34.277 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 8 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:34.385 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 9 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:34.495 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 10 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:34.606 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 11 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:34.729 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 12 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:34.839 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 13 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:34.947 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 14 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:35.057 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 15 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:35.165 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 16 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:35.307 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 17 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:35.420 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 18 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:35.526 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 19 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:35.638 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 20 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:35.746 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 21 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 18:01:36.121 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 18:02:20.890 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 18:02:20.897 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 18:27:38.906 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 18:27:38.921 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 18:27:42.580 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 18:27:42.593 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 18:49:23.126 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 18492 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-17 18:49:23.138 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-17 18:49:23.139 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-17 18:49:26.336 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-17 18:49:26.405 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-17 18:49:26.409 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-17 18:49:26.410 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-17 18:49:26.663 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-17 18:49:26.664 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3421 ms
+2022-01-17 18:49:27.020 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-17 18:49:27.020 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-17 18:49:27.048 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-17 18:49:28.355 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-17 18:49:28.407 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-17 18:49:28.439 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 6.941 seconds (JVM running for 8.396)
+2022-01-17 18:50:27.458 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-17 18:50:27.458 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-17 18:50:27.460 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-01-17 18:50:27.515 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 18:50:27.621 [INFO] o.a.k.c.producer.ProducerConfig - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = true
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class com.pct.device.simulator.DatagramPacketSerializer
+
+2022-01-17 18:50:28.358 [INFO] o.a.k.common.utils.AppInfoParser - Kafka version: 2.7.1
+2022-01-17 18:50:28.365 [INFO] o.a.k.common.utils.AppInfoParser - Kafka commitId: 61dbce85d0d41457
+2022-01-17 18:50:28.373 [INFO] o.a.k.common.utils.AppInfoParser - Kafka startTimeMs: 1642425628344
+2022-01-17 18:50:29.191 [INFO] org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: JmAPvpy6R9eLXRcueEEDYw
+2022-01-17 18:50:29.278 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 19:49:15.932 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 19:49:15.944 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 23:31:03.942 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 14240 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-17 23:31:03.949 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-17 23:31:03.949 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-17 23:31:10.325 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-17 23:31:10.349 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-17 23:31:10.352 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-17 23:31:10.353 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-17 23:31:10.808 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-17 23:31:10.820 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6208 ms
+2022-01-17 23:31:11.573 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-17 23:31:11.574 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-17 23:31:11.592 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-17 23:31:14.937 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-17 23:31:15.290 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-17 23:31:15.322 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 13.902 seconds (JVM running for 15.588)
+2022-01-17 23:31:31.512 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-17 23:31:31.513 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-17 23:31:31.516 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-01-17 23:31:31.596 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:31:31.670 [INFO] o.a.k.c.producer.ProducerConfig - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = true
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class com.pct.device.simulator.DatagramPacketSerializer
+
+2022-01-17 23:31:32.149 [INFO] o.a.k.common.utils.AppInfoParser - Kafka version: 2.7.1
+2022-01-17 23:31:32.159 [INFO] o.a.k.common.utils.AppInfoParser - Kafka commitId: 61dbce85d0d41457
+2022-01-17 23:31:32.159 [INFO] o.a.k.common.utils.AppInfoParser - Kafka startTimeMs: 1642442492142
+2022-01-17 23:31:34.184 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:34.185 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:36.312 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:36.313 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:38.459 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:38.459 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:40.753 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:40.753 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:41.842 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:31:41.849 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 23:31:43.273 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:43.274 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:46.225 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:46.225 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:49.426 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:49.427 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:52.624 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:52.625 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:55.759 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:55.760 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:31:56.854 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:31:58.696 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:31:58.697 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:01.642 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:01.644 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:04.665 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:04.665 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:07.543 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:07.544 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:10.436 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:10.437 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:13.652 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:13.653 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:16.787 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:16.788 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:19.792 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:19.793 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:22.994 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:22.995 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:25.943 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:25.944 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:29.143 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:29.144 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:32.202 [ERROR] o.s.k.s.LoggingProducerListener - Exception thrown when sending a message with key='123' and payload='com.pct.device.simulator.DatagramMigrationPacketObject@5c086882' to topic topic and partition 0:
+org.apache.kafka.common.errors.TimeoutException: Topic topic not present in metadata after 60000 ms.
+2022-01-17 23:32:32.208 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:32.209 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:32.226 [ERROR] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Failed while sending raw report] with root cause
+java.lang.RuntimeException: Failed while sending raw report
+	at com.pct.device.simulator.ReportController.produceKafka(ReportController.java:107)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-01-17 23:32:35.222 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:35.223 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:38.175 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:38.176 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:41.188 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:41.189 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:44.251 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:44.252 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:47.396 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:47.397 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:50.356 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:50.356 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:53.238 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:53.238 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:56.375 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:56.376 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:32:56.865 [ERROR] o.s.k.s.LoggingProducerListener - Exception thrown when sending a message with key='123' and payload='com.pct.device.simulator.DatagramMigrationPacketObject@4754aa15' to topic topic and partition 0:
+org.apache.kafka.common.errors.TimeoutException: Topic topic not present in metadata after 60000 ms.
+2022-01-17 23:32:56.880 [ERROR] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Failed while sending raw report] with root cause
+java.lang.RuntimeException: Failed while sending raw report
+	at com.pct.device.simulator.ReportController.produceKafka(ReportController.java:107)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-01-17 23:32:59.570 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:32:59.570 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:02.631 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:02.631 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:05.712 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:05.712 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:08.866 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:08.867 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:11.804 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:11.804 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:14.888 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:14.889 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:18.019 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:18.019 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:21.219 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:21.219 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:24.225 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:24.226 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:27.363 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:27.364 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:30.250 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:30.250 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:33.262 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:33.264 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:36.288 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:36.289 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:39.293 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:39.293 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:42.324 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:42.325 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:45.278 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:45.278 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:48.406 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:48.406 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:51.487 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:51.488 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:54.512 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:54.512 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:33:57.392 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:33:57.393 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:00.399 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:00.399 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:03.343 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:03.344 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:06.230 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:06.230 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:09.363 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:09.364 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:12.323 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:12.324 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:15.382 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:15.383 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:18.337 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:18.337 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:21.398 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:21.399 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:24.616 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:24.617 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:27.800 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:27.801 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:30.905 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:30.906 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:33.808 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:33.809 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:36.989 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:36.989 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:45.974 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:47.167 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:34:48.116 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:48.117 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:50.254 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:50.255 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:52.462 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:52.463 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:54.958 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:54.959 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:34:57.848 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:34:57.849 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:00.925 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:00.925 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:04.125 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:04.126 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:07.020 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:07.020 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:10.096 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:10.097 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:13.106 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:13.107 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:16.253 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:16.254 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:19.496 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:19.497 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:22.633 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:22.634 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:25.519 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:25.520 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:28.660 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:28.660 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:31.686 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:31.687 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:34.703 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:34.704 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:37.908 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:37.908 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:40.867 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:40.867 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:44.080 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:44.080 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:47.184 [ERROR] o.s.k.s.LoggingProducerListener - Exception thrown when sending a message with key='123' and payload='com.pct.device.simulator.DatagramMigrationPacketObject@262400c8' to topic topic and partition 0:
+org.apache.kafka.common.errors.TimeoutException: Topic topic not present in metadata after 60000 ms.
+2022-01-17 23:35:47.190 [ERROR] o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.RuntimeException: Failed while sending raw report] with root cause
+java.lang.RuntimeException: Failed while sending raw report
+	at com.pct.device.simulator.ReportController.produceKafka(ReportController.java:107)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-01-17 23:35:47.216 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2022-01-17 23:35:47.217 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2022-01-17 23:35:50.448 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 2 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:50.451 [INFO] org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: JmAPvpy6R9eLXRcueEEDYw
+2022-01-17 23:35:50.570 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 4 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:50.692 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 5 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:50.814 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 6 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:50.937 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 7 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.047 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 8 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.155 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 9 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.265 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 10 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.376 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 11 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.486 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 12 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.594 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 13 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.703 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 14 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.814 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 15 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:51.925 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 16 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.034 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 17 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.143 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 18 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.257 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 19 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.366 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 20 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.491 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 21 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.605 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 22 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.728 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 23 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.840 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 24 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:52.962 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 25 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:53.074 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 26 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:53.184 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 27 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:53.299 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 28 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:53.417 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 29 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:53.531 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 30 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:53.642 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 31 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:53.766 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 32 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:35:53.882 [WARN] o.a.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 33 : {topic=LEADER_NOT_AVAILABLE}
+2022-01-17 23:36:12.067 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:36:12.181 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 23:38:02.635 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:38:02.642 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 23:41:03.721 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:41:03.729 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 23:43:44.843 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:43:44.874 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-17 23:45:15.221 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-17 23:45:15.230 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener

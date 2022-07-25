@@ -1,0 +1,133 @@
+2022-06-28 14:53:30.157 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 26332 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-06-28 14:53:30.169 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-28 14:53:30.170 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-28 14:53:31.952 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-06-28 14:53:31.966 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-28 14:53:31.967 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-28 14:53:31.967 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-06-28 14:53:32.067 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-28 14:53:32.068 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1821 ms
+2022-06-28 14:53:32.166 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-06-28 14:53:32.167 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-06-28 14:53:32.815 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-06-28 14:53:32.901 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-28 14:53:32.918 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.583 seconds (JVM running for 4.161)
+2022-06-28 15:03:45.879 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 2532 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-06-28 15:03:45.882 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-28 15:03:45.882 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-28 15:03:46.956 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-06-28 15:03:46.967 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:03:46.967 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-28 15:03:46.968 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-06-28 15:03:47.052 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-28 15:03:47.052 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1110 ms
+2022-06-28 15:03:47.111 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-06-28 15:03:47.111 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-06-28 15:03:47.620 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:03:47.625 [WARN] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8082 is already in use
+2022-06-28 15:03:47.630 [INFO] o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:03:47.630 [INFO] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-06-28 15:03:47.638 [INFO] o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:03:47.639 [INFO] o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:03:47.649 [INFO] o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-06-28 15:03:47.664 [ERROR] o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8082 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8082 or configure this application to listen on another port.
+
+2022-06-28 15:06:13.624 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 24260 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-06-28 15:06:13.627 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-28 15:06:13.627 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-28 15:06:14.671 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-06-28 15:06:14.682 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:06:14.684 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-28 15:06:14.685 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-06-28 15:06:14.766 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-28 15:06:14.767 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1084 ms
+2022-06-28 15:06:14.831 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-06-28 15:06:14.832 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-06-28 15:06:15.252 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:06:15.301 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-28 15:06:15.314 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 2.264 seconds (JVM running for 3.109)
+2022-06-28 15:06:22.913 [INFO] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-28 15:06:28.224 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 18360 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-06-28 15:06:28.230 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-28 15:06:28.230 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-28 15:06:29.378 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-06-28 15:06:29.390 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:06:29.391 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-28 15:06:29.392 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-06-28 15:06:29.499 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-28 15:06:29.499 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1211 ms
+2022-06-28 15:06:29.576 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-06-28 15:06:29.577 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-06-28 15:06:30.019 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:06:30.063 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-28 15:06:30.079 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 2.526 seconds (JVM running for 3.654)
+2022-06-28 15:07:05.796 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 18600 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-06-28 15:07:05.803 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-28 15:07:05.803 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-28 15:07:06.951 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-06-28 15:07:06.963 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:07:06.963 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-28 15:07:06.964 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-06-28 15:07:07.064 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-28 15:07:07.065 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1205 ms
+2022-06-28 15:07:07.156 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-06-28 15:07:07.156 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-06-28 15:07:07.658 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-06-28 15:07:07.746 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-28 15:07:07.782 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 2.589 seconds (JVM running for 3.709)
+2022-06-28 16:14:23.530 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 13176 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-06-28 16:14:23.535 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-28 16:14:23.535 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-28 16:14:24.479 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-06-28 16:14:24.489 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-28 16:14:24.490 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-28 16:14:24.491 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-06-28 16:14:24.565 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-28 16:14:24.566 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 978 ms
+2022-06-28 16:14:24.640 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-06-28 16:14:24.640 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-06-28 16:14:25.023 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-06-28 16:14:25.062 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-28 16:14:25.075 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 2.051 seconds (JVM running for 2.989)
+2022-06-28 16:17:18.005 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 2264 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-06-28 16:17:18.010 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-28 16:17:18.010 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-28 16:17:18.933 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-06-28 16:17:18.943 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-28 16:17:18.944 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-28 16:17:18.945 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-06-28 16:17:19.010 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-28 16:17:19.011 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 950 ms
+2022-06-28 16:17:19.093 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-06-28 16:17:19.093 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-06-28 16:17:19.481 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-06-28 16:17:19.517 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-28 16:17:19.530 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 2.019 seconds (JVM running for 2.844)
+2022-06-28 16:17:48.338 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 452 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-06-28 16:17:48.343 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-28 16:17:48.344 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-28 16:17:49.283 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-06-28 16:17:49.292 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-28 16:17:49.293 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-28 16:17:49.293 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-06-28 16:17:49.360 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-28 16:17:49.360 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 967 ms
+2022-06-28 16:17:49.446 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-06-28 16:17:49.447 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-06-28 16:17:49.835 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-06-28 16:17:49.872 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-06-28 16:17:49.885 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 2.055 seconds (JVM running for 2.909)

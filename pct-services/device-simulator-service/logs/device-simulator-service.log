@@ -1,0 +1,206 @@
+2022-07-25 17:23:44.471 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 5844 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:23:44.493 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:23:44.493 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:23:46.827 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:23:46.850 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:23:46.852 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:23:46.854 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:23:47.012 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:23:47.012 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2363 ms
+2022-07-25 17:23:47.150 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-07-25 17:23:47.150 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-07-25 17:23:47.823 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:23:47.891 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:23:47.910 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 4.525 seconds (JVM running for 5.866)
+2022-07-25 17:24:47.294 [INFO] c.p.d.simulator.ReportController - msgUuid ffb1c7fc-e041-4f9c-9eb9-c17449523a0d Inside method sendRawReport
+2022-07-25 17:24:48.433 [INFO] c.p.d.simulator.ReportController - msgUuid ffb1c7fc-e041-4f9c-9eb9-c17449523a0d rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:24:49.315 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:24:50.504 [INFO] c.p.d.simulator.ReportController - msgUuid ffb1c7fc-e041-4f9c-9eb9-c17449523a0d Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:25:54.506 [ERROR] c.p.d.simulator.ReportController - msgUuid ffb1c7fc-e041-4f9c-9eb9-c17449523a0d Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:28:00.935 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 22312 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:28:00.944 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:28:00.945 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:28:02.673 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:28:02.692 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:28:02.693 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:28:02.694 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:28:02.806 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:28:02.807 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1761 ms
+2022-07-25 17:28:02.946 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-07-25 17:28:02.947 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-07-25 17:28:03.625 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:28:03.706 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:28:03.737 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.711 seconds (JVM running for 4.824)
+2022-07-25 17:28:08.707 [INFO] c.p.d.simulator.ReportController - msgUuid 45328873-c8e3-4cdb-bef5-b1afd843ddbd Inside method sendRawReport
+2022-07-25 17:28:10.737 [INFO] c.p.d.simulator.ReportController - msgUuid 45328873-c8e3-4cdb-bef5-b1afd843ddbd rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:30:22.388 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:30:22.409 [INFO] c.p.d.simulator.ReportController - msgUuid 45328873-c8e3-4cdb-bef5-b1afd843ddbd Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:30:22.415 [ERROR] c.p.d.simulator.ReportController - msgUuid 45328873-c8e3-4cdb-bef5-b1afd843ddbd Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:31:13.010 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 15608 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:31:13.018 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:31:13.019 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:31:14.890 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:31:14.911 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:31:14.912 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:31:14.913 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:31:15.066 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:31:15.067 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1943 ms
+2022-07-25 17:31:15.218 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-07-25 17:31:15.219 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-07-25 17:31:15.959 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:31:16.049 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:31:16.074 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 4.017 seconds (JVM running for 5.134)
+2022-07-25 17:31:25.270 [INFO] c.p.d.simulator.ReportController - msgUuid 3ce4a8ac-f2f8-4c35-b603-88b2fc79041e Inside method sendRawReport
+2022-07-25 17:31:25.827 [INFO] c.p.d.simulator.ReportController - msgUuid 3ce4a8ac-f2f8-4c35-b603-88b2fc79041e rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:31:26.500 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:31:28.472 [INFO] c.p.d.simulator.ReportController - msgUuid 3ce4a8ac-f2f8-4c35-b603-88b2fc79041e Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:31:31.079 [ERROR] c.p.d.simulator.ReportController - msgUuid 3ce4a8ac-f2f8-4c35-b603-88b2fc79041e Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:32:31.257 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 21004 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:32:31.265 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:32:31.265 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:32:33.053 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:32:33.075 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:32:33.076 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:32:33.077 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:32:33.195 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:32:33.195 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1832 ms
+2022-07-25 17:32:33.336 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-07-25 17:32:33.336 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-07-25 17:32:34.043 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:32:34.120 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:32:34.148 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.81 seconds (JVM running for 5.037)
+2022-07-25 17:32:37.929 [INFO] c.p.d.simulator.ReportController - msgUuid 3f6e4734-e99e-4d20-8eed-ad489baeaff0 Inside method sendRawReport
+2022-07-25 17:32:38.577 [INFO] c.p.d.simulator.ReportController - msgUuid 3f6e4734-e99e-4d20-8eed-ad489baeaff0 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:32:38.590 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:32:38.605 [INFO] c.p.d.simulator.ReportController - msgUuid 3f6e4734-e99e-4d20-8eed-ad489baeaff0 Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:32:38.609 [ERROR] c.p.d.simulator.ReportController - msgUuid 3f6e4734-e99e-4d20-8eed-ad489baeaff0 Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:32:48.001 [INFO] c.p.d.simulator.ReportController - msgUuid 8e2801e7-1746-4e67-a053-90f6366a06e4 Inside method sendRawReport
+2022-07-25 17:32:49.562 [INFO] c.p.d.simulator.ReportController - msgUuid 8e2801e7-1746-4e67-a053-90f6366a06e4 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:32:49.564 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:32:49.570 [INFO] c.p.d.simulator.ReportController - msgUuid 8e2801e7-1746-4e67-a053-90f6366a06e4 Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:32:49.574 [ERROR] c.p.d.simulator.ReportController - msgUuid 8e2801e7-1746-4e67-a053-90f6366a06e4 Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:32:51.554 [INFO] c.p.d.simulator.ReportController - msgUuid 46079edb-6b53-4539-b713-7db59eaba251 Inside method sendRawReport
+2022-07-25 17:32:52.091 [INFO] c.p.d.simulator.ReportController - msgUuid 46079edb-6b53-4539-b713-7db59eaba251 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:32:52.096 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:32:52.109 [INFO] c.p.d.simulator.ReportController - msgUuid 46079edb-6b53-4539-b713-7db59eaba251 Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:32:52.112 [ERROR] c.p.d.simulator.ReportController - msgUuid 46079edb-6b53-4539-b713-7db59eaba251 Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:32:54.569 [INFO] c.p.d.simulator.ReportController - msgUuid 64a965e6-49fc-4cd7-8144-c03936dcd526 Inside method sendRawReport
+2022-07-25 17:33:00.369 [INFO] c.p.d.simulator.ReportController - msgUuid 64a965e6-49fc-4cd7-8144-c03936dcd526 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:33:00.371 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:33:00.378 [INFO] c.p.d.simulator.ReportController - msgUuid 64a965e6-49fc-4cd7-8144-c03936dcd526 Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:33:00.382 [ERROR] c.p.d.simulator.ReportController - msgUuid 64a965e6-49fc-4cd7-8144-c03936dcd526 Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:33:23.737 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 22520 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:33:23.745 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:33:23.746 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:33:25.467 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:33:25.488 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:33:25.489 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:33:25.490 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:33:25.620 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:33:25.620 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1779 ms
+2022-07-25 17:33:25.754 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-07-25 17:33:25.755 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-07-25 17:33:26.466 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:33:26.532 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:33:26.554 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.768 seconds (JVM running for 4.781)
+2022-07-25 17:33:35.312 [INFO] c.p.d.simulator.ReportController - msgUuid cdde5bc7-0a49-4a30-970f-79fcae36821e Inside method sendRawReport
+2022-07-25 17:33:35.999 [INFO] c.p.d.simulator.ReportController - msgUuid cdde5bc7-0a49-4a30-970f-79fcae36821e rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:33:37.457 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:33:37.478 [INFO] c.p.d.simulator.ReportController - msgUuid cdde5bc7-0a49-4a30-970f-79fcae36821e Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:33:37.483 [ERROR] c.p.d.simulator.ReportController - msgUuid cdde5bc7-0a49-4a30-970f-79fcae36821e Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:34:50.923 [INFO] c.p.d.simulator.ReportController - msgUuid 906beb86-eed6-43f6-9c65-15bb5bbf3d40 Inside method sendRawReport
+2022-07-25 17:34:51.769 [INFO] c.p.d.simulator.ReportController - msgUuid 906beb86-eed6-43f6-9c65-15bb5bbf3d40 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:34:51.772 [INFO] c.p.d.simulator.ReportController -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:34:51.781 [INFO] c.p.d.simulator.ReportController - msgUuid 906beb86-eed6-43f6-9c65-15bb5bbf3d40 Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:34:51.788 [ERROR] c.p.d.simulator.ReportController - msgUuid 906beb86-eed6-43f6-9c65-15bb5bbf3d40 Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:36:30.893 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 23972 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:36:30.901 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:36:30.902 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:36:32.628 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:36:32.648 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:36:32.649 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:36:32.649 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:36:32.763 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:36:32.764 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1761 ms
+2022-07-25 17:36:32.898 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-07-25 17:36:32.899 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-07-25 17:36:33.682 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:36:33.755 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:36:33.775 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.84 seconds (JVM running for 4.86)
+2022-07-25 17:36:39.641 [INFO] com.pct.device.simulator.SendReport - msgUuid c2d20c7f-6cb5-4c62-82d7-36ef5b2120a1 Inside method sendRawReport
+2022-07-25 17:36:40.823 [INFO] com.pct.device.simulator.SendReport - msgUuid c2d20c7f-6cb5-4c62-82d7-36ef5b2120a1 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:36:58.897 [INFO] com.pct.device.simulator.SendReport -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:36:58.921 [INFO] com.pct.device.simulator.SendReport - msgUuid c2d20c7f-6cb5-4c62-82d7-36ef5b2120a1 Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:36:58.926 [ERROR] com.pct.device.simulator.SendReport - msgUuid c2d20c7f-6cb5-4c62-82d7-36ef5b2120a1 Failed while sending raw report java.net.SocketException: Can't send to port 0
+2022-07-25 17:40:29.868 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 24260 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:40:29.875 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:40:29.875 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:40:31.636 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:40:31.657 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:40:31.658 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:40:31.658 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:40:31.803 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:40:31.803 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1840 ms
+2022-07-25 17:40:31.938 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-07-25 17:40:31.939 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-07-25 17:40:32.565 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:40:32.633 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:40:32.653 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.649 seconds (JVM running for 5.141)
+2022-07-25 17:40:38.025 [INFO] com.pct.device.simulator.SendReport - msgUuid 135ec2e5-9e48-4949-b961-669724a1a117 Inside method sendRawReport
+2022-07-25 17:40:39.338 [INFO] com.pct.device.simulator.SendReport - msgUuid 135ec2e5-9e48-4949-b961-669724a1a117 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:44:51.997 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 19600 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:44:52.006 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:44:52.007 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:44:53.830 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:44:53.851 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:44:53.852 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:44:53.853 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:44:53.991 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:44:53.992 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1844 ms
+2022-07-25 17:44:54.907 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:44:54.989 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:44:55.032 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.998 seconds (JVM running for 5.032)
+2022-07-25 17:44:58.767 [INFO] com.pct.device.simulator.SendReport - msgUuid e70c0355-ac55-4182-8d74-d62ff7e71c82 Inside method sendRawReport
+2022-07-25 17:45:01.523 [INFO] com.pct.device.simulator.SendReport - msgUuid e70c0355-ac55-4182-8d74-d62ff7e71c82 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:45:03.720 [INFO] com.pct.device.simulator.SendReport -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:45:10.773 [INFO] com.pct.device.simulator.SendReport - msgUuid e70c0355-ac55-4182-8d74-d62ff7e71c82 Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:46:51.746 [INFO] com.pct.device.simulator.SendReport - msgUuid 8b224575-4f4f-4a50-a5ad-4fe3ad465c11 Inside method sendRawReport
+2022-07-25 17:46:56.939 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 8892 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:46:56.947 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:46:56.948 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:46:58.660 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:46:58.684 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:46:58.685 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:46:58.687 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:46:58.828 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:46:58.829 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1787 ms
+2022-07-25 17:46:59.630 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:46:59.695 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:46:59.724 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.697 seconds (JVM running for 4.634)
+2022-07-25 17:47:04.684 [INFO] com.pct.device.simulator.SendReport - msgUuid 9e2b565d-921b-4981-89db-07f01e7d089d Inside method sendRawReport
+2022-07-25 17:47:06.266 [INFO] com.pct.device.simulator.SendReport - msgUuid 9e2b565d-921b-4981-89db-07f01e7d089d rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:47:11.621 [INFO] com.pct.device.simulator.SendReport -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:47:14.331 [INFO] com.pct.device.simulator.SendReport - msgUuid 9e2b565d-921b-4981-89db-07f01e7d089d Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:47:15.787 [INFO] com.pct.device.simulator.SendReport - msgUuid 9e2b565d-921b-4981-89db-07f01e7d089d Datagram packet sent to UDP Listener
+2022-07-25 17:49:44.254 [INFO] com.pct.device.simulator.SendReport - msgUuid 7702eab4-e862-4a98-b842-0db7d080fa82 Inside method sendRawReport
+2022-07-25 17:49:45.177 [INFO] com.pct.device.simulator.SendReport - msgUuid 7702eab4-e862-4a98-b842-0db7d080fa82 rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:49:45.179 [INFO] com.pct.device.simulator.SendReport -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:49:45.185 [INFO] com.pct.device.simulator.SendReport - msgUuid 7702eab4-e862-4a98-b842-0db7d080fa82 Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:49:45.188 [INFO] com.pct.device.simulator.SendReport - msgUuid 7702eab4-e862-4a98-b842-0db7d080fa82 Datagram packet sent to UDP Listener
+2022-07-25 17:49:52.335 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 17.0.2 on DESKTOP-QMTFKBD with PID 19160 (D:\Exatip\pct-device-simulator-service\target\classes started by DeLL in D:\Exatip\pct-device-simulator-service)
+2022-07-25 17:49:52.341 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-07-25 17:49:52.342 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-07-25 17:49:54.088 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-07-25 17:49:54.121 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:49:54.122 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-07-25 17:49:54.123 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-07-25 17:49:54.238 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-07-25 17:49:54.239 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1800 ms
+2022-07-25 17:49:55.087 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-07-25 17:49:55.156 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-25 17:49:55.177 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 3.76 seconds (JVM running for 4.938)
+2022-07-25 17:49:57.994 [INFO] com.pct.device.simulator.SendReport - msgUuid 07d4324d-2fbc-45d5-9689-5b8aef54acfd Inside method sendRawReport
+2022-07-25 17:49:59.386 [INFO] com.pct.device.simulator.SendReport - msgUuid 07d4324d-2fbc-45d5-9689-5b8aef54acfd rawReport 7d01001511500840139900012b18afa622e10e011bd12b18afc6077fcf2605c5f3023f0000018308080053000006aa39e10015014015100102150163020803070102020701070403e10135010001534e3a363830616532666666656234373461630048573a3130332d30372076370046573a3130303520312e31392e38205200e102167fff547261696c65724e65745f5361624c475f313600e200020000e21009010008007b002a1052e442070103d80000001ff0010400e400e4e622030c80cbfffe320ffeb30ce400c86403e8e00e0600000000000000000015a4250881495bda1386ca95a618b155aa96eeddccbbab07cffa1308ffff280000002400003338000000030000000000000000000000000c050302000043df007034cf00000008
+2022-07-25 17:49:59.397 [INFO] com.pct.device.simulator.SendReport -  Datagram socket created serverIp null serverPort 0
+2022-07-25 17:49:59.400 [INFO] com.pct.device.simulator.SendReport - msgUuid 07d4324d-2fbc-45d5-9689-5b8aef54acfd Datagram packet created listenerIp null listenerPort 0
+2022-07-25 17:49:59.401 [INFO] com.pct.device.simulator.SendReport - msgUuid 07d4324d-2fbc-45d5-9689-5b8aef54acfd Datagram packet sent to UDP Listener

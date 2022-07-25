@@ -1,0 +1,42 @@
+2022-01-14 09:40:15.873 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Starting DeviceSimulatorServiceApplication using Java 11.0.12 on DESKTOP-DD08MLM with PID 19416 (F:\pct\ms2\pct-device-simulator-service\target\classes started by sarve in F:\pct\ms2\pct-device-simulator-service)
+2022-01-14 09:40:15.902 [DEBUG] c.p.d.s.DeviceSimulatorServiceApplication - Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-01-14 09:40:15.903 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-14 09:40:18.689 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-01-14 09:40:18.718 [INFO] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-01-14 09:40:18.720 [INFO] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-01-14 09:40:18.721 [INFO] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-01-14 09:40:18.997 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-01-14 09:40:18.999 [INFO] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2979 ms
+2022-01-14 09:40:19.214 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.pct.device.simulator.SocketObject.serverIP
+2022-01-14 09:40:19.214 [INFO] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.pct.device.simulator.SocketObject.serverPort
+2022-01-14 09:40:19.243 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-14 09:40:20.267 [INFO] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-01-14 09:40:20.314 [INFO] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-01-14 09:40:20.349 [INFO] c.p.d.s.DeviceSimulatorServiceApplication - Started DeviceSimulatorServiceApplication in 5.731 seconds (JVM running for 7.236)
+2022-01-14 09:40:45.675 [INFO] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-14 09:40:45.676 [INFO] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-01-14 09:40:45.684 [INFO] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2022-01-14 09:40:45.813 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-14 09:40:45.833 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-14 09:40:47.883 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-14 09:40:47.885 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-14 10:28:16.653 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-14 10:28:16.673 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-14 10:28:18.059 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-14 10:28:18.060 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-14 10:28:32.595 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-14 10:28:32.602 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-14 10:28:32.623 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-14 10:28:32.624 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-14 10:28:49.215 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-14 10:28:49.237 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-14 10:28:49.238 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-14 10:28:49.295 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-14 10:28:55.917 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-14 10:28:55.922 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-14 10:28:55.946 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-14 10:28:55.946 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
+2022-01-14 10:29:11.696 [INFO] c.p.d.simulator.ReportController - Packet received on Simultor
+2022-01-14 10:29:11.702 [INFO] c.p.d.simulator.ReportController - Datagram packet sent to UDP Listener
+2022-01-14 10:29:11.718 [INFO] c.p.d.s.util.DeviceSimulator - Acknowledgement packet received
+2022-01-14 10:29:11.720 [INFO] c.p.d.s.util.DeviceSimulator - Inside thread
